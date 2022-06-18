@@ -1,7 +1,7 @@
 ### Olá, me chamo Adrier José 👋
 
 
-- 🔭 Estou em busca de um estágio na área de desenvolvimento
+- 🔭 Estou em busca de um estágio na área de desenvolvimento e help desk
 - 🌱 Estudando estrutura de dados em Python
 - 📫 Contate-me pelo o e-mail: adrierj@gmail.com
 - 😄 Pronouns: ele/dele
