@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Adrier José 👋
 
 
 - 🔭 Estou em busca de um estágio na área de desenvolvimento
@@ -27,5 +27,4 @@
     <a href="https://www.linkedin.com/in/adrier-jos%C3%A9-839050150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:adrierj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
     
-
   </div>
