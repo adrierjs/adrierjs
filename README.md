@@ -31,8 +31,8 @@
      
 
  ### Projetos
- <a href="https://github.com/adrierjs/Projects/tree/main/Sistema%20Banc%C3%A1rio%20-%20POO">Sistema Bancário<br>
- <a href="https://github.com/adrierjs/Projects/tree/main/Bloco%20de%20Notas">Bloco de Notas<br>
+ -  <a href="https://github.com/adrierjs/Projects/tree/main/Sistema%20Banc%C3%A1rio%20-%20POO">Sistema Bancário<br>
+ - <a href="https://github.com/adrierjs/Projects/tree/main/Bloco%20de%20Notas">Bloco de Notas<br>
 
      
   
