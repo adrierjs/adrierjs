@@ -1,8 +1,8 @@
 ### Olá, me chamo Adrier José 👋
 
 
-- 🔭 Estou em busca de um estágio na área de desenvolvimento back-end ou help desk
-- 🌱 Estudando Java e Spring Boot
+- 🔭 No momento, estou estagiando na Newtail
+- 🌱 Estudando Java e SQL(MySQL)
 - 📫 Contate-me pelo o e-mail: adrierj@gmail.com
 - 😄 Pronouns: ele/dele
 
