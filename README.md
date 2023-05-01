@@ -2,7 +2,7 @@
 
 
 - 🔭 No momento, estou estagiando na Newtail
-- 🌱 Estudando NodeJs e SQL(MySQL)
+- 🌱 Estudando Apacha Airflow, Apache Cassandra e Python
 - 📫 Contate-me pelo o e-mail: adrierj@gmail.com
 - 😄 Pronouns: ele/dele
 
