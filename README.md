@@ -31,7 +31,7 @@
      
 
  ### Projetos
-  -  <a href="https://github.com/adrierjs/dados_climaticos">Dados climáticos<br>
+  -  <a href="https://github.com/adrierjs/newsletter">Newsletter<br>
      
  - <a href="https://github.com/adrierjs/Projects/tree/main/Bloco%20de%20Notas">Bloco de notas<br>
  - <a href="https://github.com/adrierjs/Projects/tree/main/Cadastramento%20de%20medicos">Sistema para cadastro de médicos<br>
