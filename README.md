@@ -1,7 +1,7 @@
 ### Olá, me chamo Adrier José 👋
 
 
-- 🔭 No momento, estou estagiando na Newtail
+- 🔭 No momento, sou desenvolvedor júnior na Newtail
 - 🌱 Estudando Apache Airflow, Apache Cassandra e Python
 - 📫 Contate-me pelo o e-mail: adrierj@gmail.com
 - 😄 Pronouns: ele/dele
